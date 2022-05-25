@@ -1,2 +1,1 @@
-#!/bin/bash \n
-path=’readlink -f “${BASH_SOURCE:-$0}”’
+script that prints the absolute path name of the current working directory.
