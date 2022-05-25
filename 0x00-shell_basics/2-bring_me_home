@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(realpath 2-bring_me_home)  cd     
+path=$(realpath 2-bring_me_home)  cd /home/     
