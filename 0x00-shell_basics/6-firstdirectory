@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(realpath /tmp/)  mkdir my_first_directory   
+path=$(realpath /tmp/)  mkdir  /tmp/my_first_directory   
