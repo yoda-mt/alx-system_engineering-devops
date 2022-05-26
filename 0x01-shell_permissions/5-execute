@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+x Hello
+FILE="Hello" chmod 744 "{$FILE}"
