@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(realpath 4-listmorefiles) ls -alS  "$@"
+path=$(realpath 4-listmorefiles) ls -alSr  "$@"
