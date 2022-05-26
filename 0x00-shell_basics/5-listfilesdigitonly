@@ -1,0 +1,2 @@
+#!/bin/bash
+path=$(realpath 5-listfilesdigitonly) ls -laN . "$@"
