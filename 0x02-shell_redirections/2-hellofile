@@ -1,4 +1,2 @@
 #!/bin/bash
-path=$cd/etc
-echo $path | ls
-
+source /etc/passwd
